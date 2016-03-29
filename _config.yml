@@ -1,0 +1,28 @@
+name: Colombia Jedd
+favicon: null
+layout_spectrum: 0.008441083133220673
+typography_spectrum: 0.347289873752743
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.36661678086966276
+  lightness: 0.03175399545580149
+  saturation: 0.6171984989196062
+  rhythmicContrast: 0.8993561321403831
+purpose: []
